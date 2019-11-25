@@ -1,3 +1,15 @@
+# Install PIP in Blender 2.8
+# Use Powershell on Windows
+PS C:\Program Files\Blender Foundation\Blender\2.80\python\bin> .\python.exe -m ensurepip
+PS C:\Program Files\Blender Foundation\Blender\2.80\python\Scripts> .\pip3.7.exe install pillow
+
+In Blender
+
+import PIL
+
+
+----------------------------------------------------
+
 # Python Console
 
 Ctrl + Space - Autocomplete
@@ -9,7 +21,6 @@ import os
 os.path.dirname(bpy.data.filepath)
 ----------------------------------------------------
 
->>> import os
->>> import sys
+>>> import os, sys;
 >>> sys.path.append(os.path.dirname(bpy.data.filepath))
 
