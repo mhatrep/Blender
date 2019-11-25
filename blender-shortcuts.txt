@@ -57,5 +57,5 @@ Hello World bye
 <module 'myfile' from 'C:\\hugo\\myfile.py'>
 
 ----------------------------------------------------
-
+import importlib;importlib.reload(myfile);myfile.go();
 
