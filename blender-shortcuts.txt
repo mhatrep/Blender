@@ -6,7 +6,14 @@ PS C:\Program Files\Blender Foundation\Blender\2.80\python\Scripts> .\pip3.7.exe
 In Blender
 
 import PIL
+import myfile
+myfile.go()
 
+---------------------------------
+myfile.py
+
+def go():
+    print("Hello World");
 
 ----------------------------------------------------
 
