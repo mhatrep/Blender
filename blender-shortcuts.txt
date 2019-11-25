@@ -57,5 +57,6 @@ Hello World bye
 <module 'myfile' from 'C:\\hugo\\myfile.py'>
 
 ----------------------------------------------------
+import os, sys; sys.path.append(os.path.dirname(bpy.data.filepath));
 import importlib;importlib.reload(myfile);myfile.go();
 
