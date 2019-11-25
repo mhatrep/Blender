@@ -31,3 +31,31 @@ os.path.dirname(bpy.data.filepath)
 >>> import os, sys;
 >>> sys.path.append(os.path.dirname(bpy.data.filepath))
 
+----------------------------------------------------
+
+# Auto reload
+>>> myfile.go()
+Hello World
+
+>>> import importlib
+>>> importlib.reload(myfile)
+<module 'myfile' from 'C:\\hugo\\myfile.py'>
+
+>>> myfile.go()
+Hello World
+
+>>> importlib.reload(myfile)
+<module 'myfile' from 'C:\\hugo\\myfile.py'>
+
+>>> myfile.go()
+Hello World bye
+
+>>> myfile.go()
+Hello World bye
+
+>>> importlib.reload(myfile)
+<module 'myfile' from 'C:\\hugo\\myfile.py'>
+
+----------------------------------------------------
+
+
