@@ -1,0 +1,2 @@
+z -> wireframe, solid
+i -> keyframe
