@@ -1,0 +1,3 @@
+# Keyframing is for composite shots except
+1. Opacity for Video
+2. Levels for Audio
