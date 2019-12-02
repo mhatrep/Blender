@@ -4,3 +4,11 @@
 
 ------------------------------------------------------------------------
 Working with audio, never trust your speakers or headphones. Always use audio meter.
+------------------------------------------------------------------------
+Color Grading is done after color correction.
+Color correction is about purifying your video. 
+1. Color Temperature
+2. White Balance
+3. Exposure
+------------------------------------------------------------------------
+Color Grading is done after color correction.
