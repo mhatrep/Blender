@@ -1,3 +1,6 @@
 # Keyframing is for composite shots except
 1. Opacity for Video
 2. Levels for Audio
+
+------------------------------------------------------------------------
+Working with audio, never trust your speakers or headphones. Always use audio meter.
