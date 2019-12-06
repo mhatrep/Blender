@@ -1,2 +1,4 @@
 z -> wireframe, solid
 i -> keyframe
+` -> View , Top, Left ..
+Ctrl + Tab -> Mode, Object, Edit ...
