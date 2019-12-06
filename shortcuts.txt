@@ -2,3 +2,5 @@ z -> wireframe, solid
 i -> keyframe
 ` -> View , Top, Left ..
 Ctrl + Tab -> Mode, Object, Edit ...
+. (Period) -> Pivot Point
+/ -> Toggle Local View
