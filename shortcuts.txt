@@ -4,3 +4,13 @@ i -> keyframe
 Ctrl + Tab -> Mode, Object, Edit ...
 . (Period) -> Pivot Point
 / -> Toggle Local View
+----------------------------------------
+
+Zoom - 
+Pan -
+Orbit
+
+----------------------------------------
+
+ALt - A = Clear selection
+a -> Select all
