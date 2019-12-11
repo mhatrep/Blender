@@ -1,0 +1,10 @@
+The basic types of shots in a film are:
+
+- The extreme wide shot.
+- The wide, also known as a long shot.
+- The full shot.
+- The medium shot.
+- The medium close-up shot.
+- The close-up shot.
+- The extreme close-up shot.
+- The establishing shot.
