@@ -14,3 +14,7 @@ Orbit
 
 ALt - A = Clear selection
 a -> Select all
+
+----------------------------------------------------
+
+Add circle -> Edit mode -> 'f' to add face to circle.
