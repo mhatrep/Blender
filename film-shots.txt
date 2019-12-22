@@ -8,3 +8,4 @@ The basic types of shots in a film are:
 - The close-up shot.
 - The extreme close-up shot.
 - The establishing shot.
+------------------------------------------
