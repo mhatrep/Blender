@@ -12,3 +12,6 @@ Color correction is about purifying your video.
 3. Exposure
 ------------------------------------------------------------------------
 Color Grading is done after color correction.
+
+----------------------------------------------------
+
