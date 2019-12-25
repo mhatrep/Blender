@@ -16,4 +16,12 @@ Color Grading is done after color correction.
 To drag only video part - press alt and drag to video track
 To drag only audio part - press alt and drag to audio track
 ------------------------------------------------------------------------
+# How 3D axes work
+
+Red - X - Left Right
+Green - Y - Up Down
+Blue - Z - Zoom in / Zoom Out (CLose to & away from Camera)
+
+----------------------------------------------------
+
 
