@@ -1,0 +1,6 @@
+Cameras in Blender appear as pyramid-like objects, with a hat-like arrow pointing away from the base. 
+The point of the pyramid is the rear of the camera, the bace is the lens, and the arrow indicates which 
+edge of the lens is the top edge.
+
+To recenter your 3D cursor, press Shift + C. (The 3D cursor appears as a target, and defines where new objects are placed.)
+
