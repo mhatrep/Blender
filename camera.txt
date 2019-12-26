@@ -1,3 +1,5 @@
+Reference: https://all3dp.com/2/blender-how-to-move-the-camera/
+
 Cameras in Blender appear as pyramid-like objects, with a hat-like arrow pointing away from the base. 
 The point of the pyramid is the rear of the camera, the bace is the lens, and the arrow indicates which 
 edge of the lens is the top edge.
@@ -36,5 +38,19 @@ After selecting your camera by right-clicking on it, you can either translate it
 #3 If you want to align the camera to the current viewport view, you can do so by pressing Ctrl + Alt + 0 on the number pad.
 
 ----------------------------------------------------
+
+Method 3: First Person (Viewport or Camera)
+--------------------------------------------
+To enter first person view, press Shift + F. You can press this while in camera view to move a camera object, 
+or at any time over the viewport to move its view. While in First Person mode, moving the mouse makes the 
+view rotate, as if you were looking around from one point.
+
+To move forward or backward, press W or S, respectively. To move left or right, press A or D. Finally, 
+to move up or down, press E or Q. You must hold these keys to move in the desired direction, as single key presses do nothing.
+
+If the speed at which the view moves isn’t to your liking, you can scroll the mouse wheel up to speed up 
+or down to slow down the rate of motion. Once you are done looking around, or you have set your view 
+to your desired position, press enter or left-click to exit first person view. Your current viewport 
+or camera view will be saved once you exit, and can then be moved using any of the other two methods.
 
 
