@@ -29,13 +29,20 @@ Just like orbiting, panning requires that your cursor be inside the viewport bef
 Method 2: Direct Controls (Camera Only)
 ---------------------------------------
 
-After selecting your camera by right-clicking on it, you can either translate it or rotate it. Translating is the same as panning or zooming in the previous section. In other words, you can do both with the translate control. Rotating the camera tilts it in one direction, be it clockwise/counterclockwise, downward/upward, or left/right.
+After selecting your camera by right-clicking on it, you can either translate it or rotate it. 
+Translating is the same as panning or zooming in the previous section. In other words, you can 
+do both with the translate control. Rotating the camera tilts it in one direction, 
+be it clockwise/counterclockwise, downward/upward, or left/right.
 
-#1 To translate the camera, press G while it’s selected. You can now move your mouse cursor to pan the camera. To zoom, press Z twice, and then move the mouse cursor to zoom. To pan left and right only, press X twice, and move the cursor. To pan only vertically, press Y twice.
+#1 To translate the camera, press G while it’s selected. You can now move your mouse cursor to
+pan the camera. To zoom, press Z twice, and then move the mouse cursor to zoom. To pan left 
+and right only, press X twice, and move the cursor. To pan only vertically, press Y twice.
 
-#2 To rotate the camera, press R while selected. Moving the mouse cursor rotates the view clockwise or counterclockwise. To turn the camera left or right, press Z, and move the mouse cursor.
+#2 To rotate the camera, press R while selected. Moving the mouse cursor rotates the view 
+clockwise or counterclockwise. To turn the camera left or right, press Z, and move the mouse cursor.
 
-#3 If you want to align the camera to the current viewport view, you can do so by pressing Ctrl + Alt + 0 on the number pad.
+#3 If you want to align the camera to the current viewport view, you can do so by pressing 
+Ctrl + Alt + 0 on the number pad.
 
 ----------------------------------------------------
 
@@ -46,7 +53,8 @@ or at any time over the viewport to move its view. While in First Person mode, m
 view rotate, as if you were looking around from one point.
 
 To move forward or backward, press W or S, respectively. To move left or right, press A or D. Finally, 
-to move up or down, press E or Q. You must hold these keys to move in the desired direction, as single key presses do nothing.
+to move up or down, press E or Q. You must hold these keys to move in the desired direction, 
+as single key presses do nothing.
 
 If the speed at which the view moves isn’t to your liking, you can scroll the mouse wheel up to speed up 
 or down to slow down the rate of motion. Once you are done looking around, or you have set your view 
