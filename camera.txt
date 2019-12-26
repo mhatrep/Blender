@@ -4,11 +4,37 @@ edge of the lens is the top edge.
 
 To recenter your 3D cursor, press Shift + C. (The 3D cursor appears as a target, and defines where new objects are placed.)
 
-There are three main motions that one would use in the viewport: zoom, orbit, and pan. Zoom moves the viewport closer or further from the center of the scene. Orbit rotates the view around the center of the scene. Pan moves the entire scene across the viewport in any direction. 
+----------------------------------------------------
 
-#1 To zoom the viewport, simply scroll the mouse wheel up or down while the cursor is over the viewport. Alternatively, you could hold down Ctrl + Mouse Wheel Button while moving your cursor up or down on the screen.
+Method 1: Viewport Controls (Viewport Only)
+---------------------------------------------
+There are three main motions that one would use in the viewport: zoom, orbit, and pan. 
+Zoom moves the viewport closer or further from the center of the scene. Orbit rotates 
+the view around the center of the scene. Pan moves the entire scene across the viewport in any direction. 
 
-#2 To orbit the viewport, hold down the middle mouse button while moving your cursor around the viewport. Be sure to start holding down the middle mouse button while your cursor is inside the viewport.
+#1 To zoom the viewport, simply scroll the mouse wheel up or down while the cursor is over the viewport. 
+Alternatively, you could hold down Ctrl + Mouse Wheel Button while moving your cursor up or down on the screen.
 
-#3 To pan, hold down Shift + Middle Mouse Button while moving your mouse across the viewport. Just like orbiting, panning requires that your cursor be inside the viewport before you hold down the keys.
+#2 To orbit the viewport, hold down the middle mouse button while moving your cursor around the viewport. 
+Be sure to start holding down the middle mouse button while your cursor is inside the viewport.
+
+#3 To pan, hold down Shift + Middle Mouse Button while moving your mouse across the viewport. 
+Just like orbiting, panning requires that your cursor be inside the viewport before you hold down the keys.
+
+
+----------------------------------------------------
+
+Method 2: Direct Controls (Camera Only)
+---------------------------------------
+
+After selecting your camera by right-clicking on it, you can either translate it or rotate it. Translating is the same as panning or zooming in the previous section. In other words, you can do both with the translate control. Rotating the camera tilts it in one direction, be it clockwise/counterclockwise, downward/upward, or left/right.
+
+#1 To translate the camera, press G while it’s selected. You can now move your mouse cursor to pan the camera. To zoom, press Z twice, and then move the mouse cursor to zoom. To pan left and right only, press X twice, and move the cursor. To pan only vertically, press Y twice.
+
+#2 To rotate the camera, press R while selected. Moving the mouse cursor rotates the view clockwise or counterclockwise. To turn the camera left or right, press Z, and move the mouse cursor.
+
+#3 If you want to align the camera to the current viewport view, you can do so by pressing Ctrl + Alt + 0 on the number pad.
+
+----------------------------------------------------
+
 
