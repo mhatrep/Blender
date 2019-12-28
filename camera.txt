@@ -1,5 +1,9 @@
 Reference: https://all3dp.com/2/blender-how-to-move-the-camera/
 
+----------------------------------------------------
+
+
+
 Cameras in Blender appear as pyramid-like objects, with a hat-like arrow pointing away from the base. 
 The point of the pyramid is the rear of the camera, the bace is the lens, and the arrow indicates which 
 edge of the lens is the top edge.
