@@ -1,0 +1,4 @@
+Alt + MouseWheel moves avatar back and front
+Alt + MiddleClick moves avatar left/right and up/down
+Alt + LeftClick rotates avatar
+Ctrl + LeftClick moves avatar around the environment ( available only for 3D environments )
