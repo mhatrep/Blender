@@ -7,6 +7,9 @@ Cartesian cordinates read in the order of X, Y, Z.
 
 Left/Right position determined first, then Up/Down and Forward/Backward being the last.
 
+Center of 3D universe (0, 0, 0)
+Center of 2D universe (0, 0)
+
 ----------------------------------------------------
 
 Reference: https://all3dp.com/2/blender-how-to-move-the-camera/
