@@ -1,3 +1,12 @@
+RGB
+Red - X (Left/RIght)
+Green - Y (Up / Down)
+Blue - Z (Forward / Backward)
+
+Cartesian cordinates read in the order of X, Y, Z.
+
+Left/Right position determined first, then Up/Down and Forward/Backward being the last.
+
 ----------------------------------------------------
 
 Reference: https://all3dp.com/2/blender-how-to-move-the-camera/
