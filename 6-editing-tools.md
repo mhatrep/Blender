@@ -1,4 +1,4 @@
-# TOOL EXPLANATIONS:
+# TOOL EXPLANATIONS
  ———————————————————
  
 ## 1 Ripple Edit Tool
