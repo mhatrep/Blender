@@ -2,6 +2,9 @@ shift + righclick -> Move 3d cursor
 Shift + s = Bring cursor to origin
 
 
+----------------------------------------------------
+
+
 # Install PIP in Blender 2.8
 # Use Powershell on Windows
 PS C:\Program Files\Blender Foundation\Blender\2.80\python\bin> .\python.exe -m ensurepip
