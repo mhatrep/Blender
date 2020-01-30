@@ -24,7 +24,7 @@ The Slide Tool moves a clip to the left or right on a Timeline while simultaneou
 in the Timeline, remain unchanged. 
 
 
-Reference: https://www.youtube.com/watch?v=madqcMVhvrQ
+#### Reference: https://www.youtube.com/watch?v=madqcMVhvrQ
 
 
 ----------------------------------------------------
