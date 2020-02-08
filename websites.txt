@@ -12,3 +12,7 @@ https://www.macvendorlookup.com/
 ----------------------------------------------------
 
 http://cs-playground-react.surge.sh/
+
+----------------------------------------------------
+
+https://rapidtags.io/generator
