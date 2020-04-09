@@ -1,11 +1,13 @@
-# Paraphrasing
+# TEXT to VIDEO
+
+## Paraphrasing
 https://quillbot.com/
 
-# Natural Voice
+## Natural Voice
 https://wellsaidlabs.com/
 
-# Cover Design
+## Cover Design
 https://canva.com
 
-# Headliner.app
+## Headliner.app
 https://www.headliner.app/
