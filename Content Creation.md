@@ -7,6 +7,7 @@ https://quillbot.com/
 https://wellsaidlabs.com/
 https://www.naturalreaders.com/online/
 https://notevibes.com/cabinet.php
+http://www.fromtexttospeech.com/
 
 ## Cover Design
 https://canva.com
