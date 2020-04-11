@@ -5,6 +5,7 @@ https://quillbot.com/
 
 ## Natural Voice
 https://wellsaidlabs.com/
+https://www.naturalreaders.com/online/
 
 ## Cover Design
 https://canva.com
