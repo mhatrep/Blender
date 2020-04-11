@@ -20,3 +20,10 @@ https://www.headliner.app/
 
 ## Graphic Design Foundation 
 https://www.udemy.com/course/graphic-design-4-video-editors/learn/lecture/223517?start=0#overview
+
+
+----------------------------------------------------
+# Music Production
+
+## Paid Services
+https://filmstro.com/
