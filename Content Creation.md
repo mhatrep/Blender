@@ -35,3 +35,8 @@ https://filmstro.com/
 
 
 -----------------------------------------------------
+# Icons
+
+https://thenounproject.com/
+https://www.flaticon.com/
+https://www.iconfinder.com/free_icons
