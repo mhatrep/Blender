@@ -1,13 +1,13 @@
 # TEXT to VIDEO
 
 ## Paraphrasing
-https://quillbot.com/
+https://quillbot.com/ ..
 
 ## Natural Voice
 https://wellsaidlabs.com/
 https://www.naturalreaders.com/online/
 https://notevibes.com/cabinet.php
-http://www.fromtexttospeech.com/
+http://www.fromtexttospeech.com/ ..
 
 ## Cover Design
 https://canva.com
