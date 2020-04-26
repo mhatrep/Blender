@@ -14,3 +14,6 @@ HitFilm Express
 # Subtitle Editor
 http://www.aegisub.org/
 
+# HandBrake: Open Source Video Transcoder
+https://handbrake.fr/
+
