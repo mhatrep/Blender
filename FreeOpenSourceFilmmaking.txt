@@ -1,0 +1,11 @@
+# Vector Graphics
+Inkscape
+
+# Photo Editor
+Gimp
+
+# 3D Compositing
+Blender
+
+# Video Editor
+HitFilm Express
