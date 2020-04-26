@@ -8,4 +8,6 @@ Gimp
 Blender
 
 # Video Editor
+Kdenlive : https://kdenlive.org/en/download/
 HitFilm Express
+
