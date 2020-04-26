@@ -21,3 +21,6 @@ https://handbrake.fr/
 # Screen Recorder
 FlashBack Express - https://www.flashbackrecorder.com/express/
 https://app.prntscr.com/en/index.html
+
+# Screenshot
+https://getgreenshot.org/
