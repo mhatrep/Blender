@@ -11,3 +11,6 @@ Blender
 Kdenlive : https://kdenlive.org/en/download/
 HitFilm Express
 
+# Subtitle Editor
+http://www.aegisub.org/
+
