@@ -18,3 +18,5 @@ http://www.aegisub.org/
 # HandBrake: Open Source Video Transcoder
 https://handbrake.fr/
 
+# Screen Recorder
+FlashBack Express - https://www.flashbackrecorder.com/express/
