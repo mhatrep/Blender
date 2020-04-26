@@ -9,6 +9,7 @@ Blender
 
 # Video Editor
 Kdenlive : https://kdenlive.org/en/download/
+https://www.olivevideoeditor.org/index.php
 HitFilm Express
 
 # Subtitle Editor
