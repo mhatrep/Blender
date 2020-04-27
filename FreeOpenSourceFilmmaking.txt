@@ -25,6 +25,9 @@ https://app.prntscr.com/en/index.html
 # Screenshot
 https://getgreenshot.org/
 
+# Audio editor
+https://www.ocenaudio.com/
+https://www.audacityteam.org/
 
 ============================================
 # Paid Software
