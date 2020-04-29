@@ -29,7 +29,12 @@ https://getgreenshot.org/
 https://www.ocenaudio.com/
 https://www.audacityteam.org/
 
+# 2D/3D
+
+DesignDoll: https://terawell.net/terawell/
+OpenToonz:  https://opentoonz.github.io/e/
 ============================================
+
 # Paid Software
 
 StudioBinder | Shot List Software for Filmmakers
