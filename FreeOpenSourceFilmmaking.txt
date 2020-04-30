@@ -33,6 +33,10 @@ https://www.audacityteam.org/
 
 DesignDoll: https://terawell.net/terawell/
 OpenToonz:  https://opentoonz.github.io/e/
+
+# Desktop Publishing
+Scribus - Powerful desktop publishing software : https://www.scribus.net/
+
 ============================================
 
 # Paid Software
