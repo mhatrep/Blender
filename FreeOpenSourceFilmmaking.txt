@@ -36,9 +36,9 @@ OpenToonz:  https://opentoonz.github.io/e/
 
 # Desktop Publishing
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
+https://www.scribus.net/
 
 ============================================
-
 # Paid Software
 
 StudioBinder | Shot List Software for Filmmakers
