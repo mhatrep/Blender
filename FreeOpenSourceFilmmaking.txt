@@ -38,6 +38,8 @@ OpenToonz:  https://opentoonz.github.io/e/
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
 https://www.scribus.net/
 
+# VFX
+Natron: https://natrongithub.github.io/
 ============================================
 # Paid Software
 
