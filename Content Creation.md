@@ -3,6 +3,7 @@
 
 ## Paraphrasing
 https://quillbot.com/ ..
+wordai.com
 
 ## Natural Voice
 https://wellsaidlabs.com/
