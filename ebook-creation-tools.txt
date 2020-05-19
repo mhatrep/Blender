@@ -1,2 +1,23 @@
-Libre Office
+The Programs you Will Need
+==========================
+
+Libreoffice Writer
+
 Grammarly
+
+Where you Can Publish your eBook
+=================================
+Amazon Kindle
+
+Apple iBooks
+
+Google Play Books
+
+Payhip
+
+Blurb
+
+Shopify
+
+WooCommerce
+
