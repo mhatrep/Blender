@@ -35,6 +35,10 @@ DesignDoll: https://terawell.net/terawell/
 OpenToonz:  https://opentoonz.github.io/e/
 ENVE: https://maurycyliebner.github.io/
 
+# Visual Scripting of Image Operations
+http://pixaflux.com/
+
+
 # Desktop Publishing
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
 https://www.scribus.net/
