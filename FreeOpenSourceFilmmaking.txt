@@ -33,6 +33,7 @@ https://www.audacityteam.org/
 
 DesignDoll: https://terawell.net/terawell/
 OpenToonz:  https://opentoonz.github.io/e/
+ENVE: https://maurycyliebner.github.io/
 
 # Desktop Publishing
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
