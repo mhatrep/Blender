@@ -6,6 +6,7 @@ Gimp
 
 # 3D Compositing
 Blender
+Bforartists: https://www.bforartists.de/
 
 # Video Editor
 Kdenlive : https://kdenlive.org/en/download/
