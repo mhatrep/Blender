@@ -42,6 +42,9 @@ http://pixaflux.com/
 # Game Console
 https://www.pixelvision8.com/dashboard
 
+# Shaders
+https://github.com/dfranx/SHADERed/releases
+
 
 # Desktop Publishing
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
