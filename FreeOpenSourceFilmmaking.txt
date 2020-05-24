@@ -37,6 +37,9 @@ DesignDoll: https://terawell.net/terawell/
 OpenToonz:  https://opentoonz.github.io/e/
 ENVE: https://maurycyliebner.github.io/
 
+# Texture
+https://njbrown.itch.io/texturelab
+
 # Visual Scripting of Image Operations
 http://pixaflux.com/
 
