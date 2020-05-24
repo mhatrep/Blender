@@ -9,6 +9,9 @@ https://github.com/mypaint/mypaint/releases/tag/v2.0.0
 Blender
 Bforartists: https://www.bforartists.de/
 
+# 3d World / Terrain
+http://www.demenzunmedia.com/home/terresculptor/
+
 # Video Editor
 Kdenlive : https://kdenlive.org/en/download/
 https://www.olivevideoeditor.org/index.php
