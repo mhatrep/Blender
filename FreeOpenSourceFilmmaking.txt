@@ -39,6 +39,9 @@ ENVE: https://maurycyliebner.github.io/
 # Visual Scripting of Image Operations
 http://pixaflux.com/
 
+# Game Console
+https://www.pixelvision8.com/dashboard
+
 
 # Desktop Publishing
 Scribus - Powerful desktop publishing software : https://www.scribus.net/
