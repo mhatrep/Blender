@@ -30,6 +30,9 @@ https://app.prntscr.com/en/index.html
 # Screenshot
 https://getgreenshot.org/
 
+# Material Maker
+https://rodzilla.itch.io/material-maker?download
+
 # Audio editor
 https://www.ocenaudio.com/
 https://www.audacityteam.org/
