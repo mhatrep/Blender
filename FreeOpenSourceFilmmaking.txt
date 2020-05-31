@@ -96,4 +96,5 @@ https://images.google.com/
 # Game ART
 https://opengameart.org/
 
-
+# Textures
+https://www.textures.com/
