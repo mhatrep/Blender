@@ -1,0 +1,2 @@
+# Video to Image Sequence
+$ ffmpeg -i a.mp4 -r 1 image-%04d.jpeg
