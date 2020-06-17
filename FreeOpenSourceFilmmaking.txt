@@ -116,3 +116,7 @@ https://www2.cs.duke.edu/csed/web/alice09/tutorialsAlice3.php
 
 # DJ Mixing Software
 https://www.mixxx.org/
+
+
+# File Management
+https://www.voidtools.com/
