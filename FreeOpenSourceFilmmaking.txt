@@ -4,6 +4,7 @@ Inkscape
 # Photo Editor
 Gimp
 https://github.com/mypaint/mypaint/releases/tag/v2.0.0
+https://www.darktable.org/
 
 # 3D Compositing
 Blender
