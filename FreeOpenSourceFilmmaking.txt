@@ -113,3 +113,6 @@ https://www.openvdb.org/about/
 
 # Learn Alice 3D
 https://www2.cs.duke.edu/csed/web/alice09/tutorialsAlice3.php
+
+# DJ Mixing Software
+https://www.mixxx.org/
