@@ -17,6 +17,10 @@ Kdenlive : https://kdenlive.org/en/download/
 https://www.olivevideoeditor.org/index.php
 HitFilm Express
 
+https://shotcut.org/
+
+
+
 # Subtitle Editor
 http://www.aegisub.org/
 
