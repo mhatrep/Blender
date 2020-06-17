@@ -20,7 +20,8 @@ HitFilm Express
 
 https://shotcut.org/
 
-
+# Subtitle Editor
+http://www.aegisub.org/
 
 # Subtitle Editor
 http://www.aegisub.org/
