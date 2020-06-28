@@ -132,3 +132,6 @@ https://twinery.org/
 https://blitzmax.org/
 
 https://scriptation.com/
+
+https://www.ezvid.com/ezvid_for_windows
+
