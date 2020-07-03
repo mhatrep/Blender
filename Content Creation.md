@@ -1,5 +1,5 @@
-# TEXT to VIDEO
-===================
+# TEXT to VIDEO Converter
+===========================
 
 ## Paraphrasing
 https://quillbot.com/ ..
@@ -45,8 +45,6 @@ https://thenounproject.com/
 https://www.flaticon.com/
 https://www.iconfinder.com/free_icons
 
-
 ----------------------------------------------------
-
 # Green Screen
 https://www.udemy.com/course/draft/108724/learn/lecture/633810#overview
