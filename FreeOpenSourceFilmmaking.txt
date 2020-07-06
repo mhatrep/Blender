@@ -145,3 +145,6 @@ https://galloscript.itch.io/texgraph
 
 # Photobashing
 https://www.photobash.org/
+
+# Music Programming
+https://sonic-pi.net/
