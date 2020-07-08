@@ -154,3 +154,6 @@ https://nasa3d.arc.nasa.gov/models
 
 # Hubble Site
 https://hubblesite.org/
+
+# Free sound effects
+https://www.freesoundeffects.com/
