@@ -179,3 +179,6 @@ https://cascadeur.com/download/index
 
 http://www.cinemateca.org/film/film_styles.htm
 https://render.otoy.com/forum/viewtopic.php?f=7&t=73278
+
+Part1 - https://www.blackmagicdesign.com/dvres/editing-with-resolve15-pt1
+Part2 - https://www.blackmagicdesign.com/dvres/editing-with-resolve15-pt2
