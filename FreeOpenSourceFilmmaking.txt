@@ -187,3 +187,6 @@ Part2 - https://www.blackmagicdesign.com/dvres/editing-with-resolve15-pt2
 https://github.com/SubtitleEdit/subtitleedit/releases
 
 # https://mb-lab-community.github.io/MB-Lab.github.io/
+
+# Free Log Footage
+https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage
