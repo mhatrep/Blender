@@ -190,3 +190,6 @@ https://github.com/SubtitleEdit/subtitleedit/releases
 
 # Free Log Footage
 https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage
+
+# Hue sync app
+https://www.philips-hue.com/en-au/entertainment/hue-sync
