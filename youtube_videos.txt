@@ -3,3 +3,14 @@ https://www.youtube.com/watch?v=qs9aoL07AKo&t=71s
 https://www.youtube.com/watch?v=FTY77YZ0aOI
 https://www.youtube.com/watch?v=Nhp9GJpO4hI&t=11s
 https://www.youtube.com/c/ConFusion/videos
+
+
+Seven Youtube Channels I found useful to learn Unreal Engine Virtual Production
+  
+1. Matt Workman      : https://www.youtube.com/user/cinematographydb
+2. Richard Frantzén  : https://www.youtube.com/channel/UCX7wgObMBx4dgTblpVpGDeA
+3. Humble Ninja      : https://www.youtube.com/channel/UCdkQsy28KYiWvPuwdqeApFA
+4. Greg Corson       : https://www.youtube.com/user/GregCorson
+5. Pixel Prof        : https://www.youtube.com/channel/UCXoL6vg9DZZaPCqdn3tM3_g
+6. Michael Ricks     : https://www.youtube.com/user/michaelricks1031
+7. Andy Blondin      : https://www.youtube.com/channel/UCa1s9Zc1YxGUTlENQ0Nmyrg
