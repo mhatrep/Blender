@@ -1,3 +1,8 @@
 http://www.bluegriffon.org/
-
 https://jamstack.org/generators/
+https://nicepage.com/
+
+Title Generator
+===============
+https://www.internetmarketingninjas.com/tools/free-tools/title-meta-content/
+http://tools.buzzstream.com/meta-tag-extractor
