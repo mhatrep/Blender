@@ -6,3 +6,6 @@ Oimo.js
 JQuery
 --------------------
 Web Frameworks
+React
+Angular
+Vue
