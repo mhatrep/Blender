@@ -3,6 +3,7 @@ Learn Niagara Particle System
 https://docs.unrealengine.com/en-US/RenderingAndGraphics/Niagara/QuickStart/index.html
 https://www.youtube.com/c/tharlevfx/videos
 https://www.youtube.com/channel/UC3Yf1SuYLc5WdChEgXRA6OQ/videos
+https://www.youtube.com/channel/UC6LArEEHAkHIQs6xhEloSKA/videos
 
 Unreal Engine Shortcuts
 ===================================================
