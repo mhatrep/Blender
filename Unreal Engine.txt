@@ -4,6 +4,7 @@ https://docs.unrealengine.com/en-US/RenderingAndGraphics/Niagara/QuickStart/inde
 https://www.youtube.com/c/tharlevfx/videos
 https://www.youtube.com/channel/UC3Yf1SuYLc5WdChEgXRA6OQ/videos
 https://www.youtube.com/channel/UC6LArEEHAkHIQs6xhEloSKA/videos
+https://www.youtube.com/watch?v=lL1Azu_syWA
 
 Unreal Engine Shortcuts
 ===================================================
