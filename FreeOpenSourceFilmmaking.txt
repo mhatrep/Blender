@@ -186,6 +186,8 @@ Part2 - https://www.blackmagicdesign.com/dvres/editing-with-resolve15-pt2
 # Subtitle Edit
 https://github.com/SubtitleEdit/subtitleedit/releases
 
+https://twinery.org/
+
 # https://mb-lab-community.github.io/MB-Lab.github.io/
 
 # Free Log Footage
