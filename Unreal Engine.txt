@@ -1,3 +1,7 @@
+http://qtpfsgui.sourceforge.net/
+https://gumroad.com/l/BQLNP
+
+
 Learn Niagara Particle System
 ------------------------------
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
