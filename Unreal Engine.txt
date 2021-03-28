@@ -48,3 +48,39 @@ P: Panner
 T: Texture Sampler
 U: Texture Coordinate (UV)
 B: Bump Offset
+
+A Add
+B BumpOffset
+C Comment
+D Divide
+E Power
+F MaterialFunctionCall
+I If
+L LinearInterpolate
+M Multiply
+N Normalize
+O OneMinus
+P Panner
+R ReflectionVector
+S ScalarParameter
+T TextureSample
+U TexCoord
+V VectorParameter
+1 Constant
+2 Constant2Vector
+3 Constant3Vector
+4 Constant4Vector
+Shift + C ComponentMask
+
+----------------------------------------------
+Ctrl + B Find in Content Browser
+Ctrl + C Copy selected expressions
+Ctrl + S Save all
+Ctrl + V Paste
+Ctrl + W Duplicate selected objects
+Ctrl + Y Redo
+Ctrl + Z Undo
+Delete Delete selected objects
+Spacebar Force update all material expression previews
+Enter (same as clicking apply)
+----------------------------------------------
