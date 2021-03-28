@@ -32,3 +32,19 @@ https://www.youtube.com/c/UpsideDownTutorials/videos
 
 https://www.youtube.com/channel/UC9LeuCZM_1Js7bcjj4rHqLg/videos
 https://www.youtube.com/user/bcloward/videos
+
+----------------------------------------------
+Material Hotkeys:
+
+M: Multiply
+A: Add
+D: Divide
+E: Power (Exponent)
+O: One-Minus
+1: Constant
+S: Scalar Parameter
+L: Lerp
+P: Panner
+T: Texture Sampler
+U: Texture Coordinate (UV)
+B: Bump Offset
