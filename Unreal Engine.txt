@@ -84,3 +84,4 @@ Delete Delete selected objects
 Spacebar Force update all material expression previews
 Enter (same as clicking apply)
 ----------------------------------------------
+https://sondreutheim.com/post/getting_started_with_python_in_ue4
