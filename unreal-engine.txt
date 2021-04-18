@@ -23,5 +23,6 @@ https://derivative.ca/download
 https://www.youtube.com/c/evilmrfrank/videos
 https://www.youtube.com/c/MatthewPalaje/videos
 
-
-Enable plugin : Media Framework Utilities
+Virtual Production / Green Screen
+=================================
+Enable plugin : Media Framework Utilities, composure
