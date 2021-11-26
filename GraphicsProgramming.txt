@@ -23,3 +23,8 @@ Altair® Grid Engine®
 Distributed Resource Management and Optimization
 https://www.altair.com/grid-engine/
 ----------------------------------------------
+Singularity provides a single universal on-ramp from developers’ workstations to local resources, the cloud, and all the way to edge.
+https://sylabs.io/singularity/
+----------------------------------------------
+https://developer.nvidia.com/networking/infiniband-software
+----------------------------------------------
