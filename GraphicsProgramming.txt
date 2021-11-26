@@ -16,3 +16,10 @@ https://www.khronos.org/opencl/
 Vulkan is a cross-platform industry standard enabling developers to target a wide range of devices with the same graphics API.
 https://www.vulkan.org/
 ----------------------------------------------
+Slurm Workload Manager
+https://slurm.schedmd.com/documentation.html
+----------------------------------------------
+Altair® Grid Engine®
+Distributed Resource Management and Optimization
+https://www.altair.com/grid-engine/
+----------------------------------------------
