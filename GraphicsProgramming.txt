@@ -1,0 +1,8 @@
+	
+Open MPI:
+Open Source High Performance Computing
+https://www.open-mpi.org/
+----------------------------------------------
+The OpenMP API specification for parallel programming
+https://www.openmp.org/
+----------------------------------------------
