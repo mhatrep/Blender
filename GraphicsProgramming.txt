@@ -28,3 +28,7 @@ https://sylabs.io/singularity/
 ----------------------------------------------
 https://developer.nvidia.com/networking/infiniband-software
 ----------------------------------------------
+https://developer.apple.com/metal/
+----------------------------------------------
+https://www.opengl.org/
+https://learnopengl.com/Getting-started/Shaders
