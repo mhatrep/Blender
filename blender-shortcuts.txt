@@ -1,7 +1,8 @@
 shift + righclick -> Move 3d cursor
 Shift + s = Bring cursor to origin
 
-
+Alt + Z - X Ray Mode
+Z - Other modes 
 ----------------------------------------------------
 
 
