@@ -1,0 +1,2 @@
+#Convert Image Files to mp4
+ffmpeg -r 30 -i NewLevelSequence3.%04d.jpeg -pix_fmt yuv420p myfirstfilm.mp4
